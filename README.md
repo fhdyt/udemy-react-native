@@ -1,13 +1,16 @@
+# Create Project
+```bash
+npx expo-cli init project_name
+```
+
 # React Navigation
 
 1. Install React Navigation
-
 ```bash
 npm install react-navigation
 ```
 
 2. Install Dependencies
-
 ```bash
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 ```
